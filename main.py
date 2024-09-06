@@ -1,5 +1,6 @@
 """
 Etch-a-Sketch
+
 Author: Alan
 Date: September 6th 2024
 
